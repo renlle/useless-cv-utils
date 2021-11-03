@@ -73,6 +73,7 @@ target/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+.idea/
 
 # IPython
 profile_default/
@@ -113,3 +114,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+*.zip
+*.tar.gz
+*.mp4
