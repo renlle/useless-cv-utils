@@ -3,7 +3,7 @@
 ## 介绍
 整理个人日常的计算机视觉算法相关的有趣的工具类代码等;
 - gitee首发: https://gitee.com/renlle/useless-cv-utils
-- github每周自动同步一次: 
+- github每周自动同步一次: https://github.com/renlle/useless-cv-utils
 - 知乎专栏：https://www.zhihu.com/column/c_1438647693480062976
 
 
